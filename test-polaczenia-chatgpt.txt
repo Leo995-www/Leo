@@ -1,0 +1,3 @@
+Test połączenia ChatGPT z GitHub.
+Data: 2026-11-17.
+Zapis plików działa.
